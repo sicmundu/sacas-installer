@@ -39,17 +39,19 @@ cd sacas
 make install
 ```
 
-Verify installation:
-```bash
-sacasd version
-```
-
 Add `sacasd` to your system path:
 ```bash
 export PATH=$HOME/go/bin:$PATH
 echo 'export PATH=$HOME/go/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
+
+Verify installation:
+```bash
+sacasd version
+```
+
+
 
 ---
 
