@@ -143,7 +143,6 @@ journalctl -u sacasd -f -o cat
 
 ## 🎯 **Node is now running!** 🚀
 
-Your node is now part of the `Sacas Network` and will restart automatically on reboot or failure.
 
 For troubleshooting, use:
 ```bash
@@ -151,4 +150,3 @@ sacasd status
 sacasd query bank balances $(sacasd keys show validator -a)
 ```
 
-](https://github.com/sicmundu/sacas-installer/blob/main/README.md)
