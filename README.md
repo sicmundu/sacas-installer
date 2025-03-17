@@ -1,4 +1,4 @@
-# 🚀 Sacas Network Node Setup
+[# 🚀 Sacas Network Node Setup
 
 ---
 
@@ -151,3 +151,4 @@ sacasd status
 sacasd query bank balances $(sacasd keys show validator -a)
 ```
 
+](https://github.com/sicmundu/sacas-installer/blob/main/README.md)
